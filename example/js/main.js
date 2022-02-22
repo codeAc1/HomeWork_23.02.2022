@@ -32,6 +32,49 @@ function Change() {
     }
 
 } 
+function red() {
+    var str = document
+        .getElementById("red")
+        .textContent;
+      
+        document.getElementById('inp').value = str;
+
+} 
+function black() {
+    var str = document
+        .getElementById("black")
+        .textContent;
+      
+        document.getElementById('inp').value = str;
+
+} 
+
+function green() {
+    var str = document
+        .getElementById("green")
+        .textContent;
+      
+        document.getElementById('inp').value = str;
+
+} 
+
+function yellow() {
+    var str = document
+        .getElementById("yellow")
+        .textContent;
+      
+        document.getElementById('inp').value = str;
+
+} 
+function white() {
+    var str = document
+        .getElementById("white")
+        .textContent;
+      
+        document.getElementById('inp').value = str;
+
+} 
+
 
 
 
